@@ -1,5 +1,9 @@
 # WeatherDisplay
 
+Angular web app to display current weather and 5-day weather forecast based on zipcode utilizing openweathermap.org apis using Databinding, HTTP Requests, Services, Observables, Responsiveness features!
+
+The web app has 2 themes - Dark/Light with a toggle for visual convinence. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
 
 ## Development server
